@@ -1,0 +1,18 @@
+.title{
+    text-align: center;
+}
+
+.scale img:not(.special){
+
+    background-size:contain;
+    
+    width:100%;
+    
+    height: auto;
+    
+}
+
+.holder{
+    height:600;
+    overflow: auto;
+}
